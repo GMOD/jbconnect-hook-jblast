@@ -60,7 +60,7 @@
     "grunt-version-bump": "^1.0.8",
     "jsdoc": "^3.6.3",
     "jsdoc-sphinx": "0.0.6",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "mocha": "^3.4.2",
     "node-pre-gyp": "^0.6.36",
     "sails": "^0.12.14",
